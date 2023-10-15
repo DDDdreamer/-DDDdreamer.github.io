@@ -1,0 +1,10 @@
+@Article{Cai2022,
+  author    = {Cai, Jinyu and Wang, Shiping and Xu, Chaoyang and Guo, Wenzhong},
+  journal   = {Pattern Recognition},
+  title     = {Unsupervised deep clustering via contractive feature representation and focal loss},
+  year      = {2022},
+  pages     = {108386},
+  volume    = {123},
+  publisher = {Elsevier},
+  url_slug  = {UDC},
+}

@@ -1,0 +1,4 @@
+pub_date	title	venue	excerpt	citation	url_slug	paper_url
+2022-06-24	2022_TMM_ULTLSE	IEEE Transactions on Multimedia	Lele Fu, Zhaoliang Chen, Yongyong Chen, and Shiping Wang. Unified low-rank tensor learning and spectral embedding for multi-view subspace clustering[J]. IEEE Transactions on Multimedia, 2022.	ULTLSE	https://chenzl23.github.io/assets/pdf/ULTLSE-TMM2022.pdf	
+2022-03-09	2022_TMM_LMMF	IEEE Transactions on Multimedia	Huang S, Zhang Y, Fu L, et al. Learnable multi-view matrix factorization with graph embedding and flexible loss[J]. IEEE Transactions on Multimedia, 2022.	LMMF	https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9732240	
+2022-03-01	2022_PR_DCCA	Pattern Recognition	Jinyu Cai, Shiping Wang, Chaoyang Xu, and Wenzhong Guo. Unsupervised deep clustering via contractive feature representation and focal loss[J]. Pattern Recognition, 2022, 123: 108386.	DCCA	https://www.sciencedirect.com/science/article/pii/S0031320321005665	
