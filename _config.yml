@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lab of Intelligent Information Processing (LIIP)"
+title                    : "LIIP" # Lab of Intelligent Information Processing (LIIP)
 title_separator          : "-"
 name                     : &name "Shiping Wang"
 description              : &description "Lab of Intelligent Information Processing from Fuzhou University"
