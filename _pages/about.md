@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Lab of Intelligent Information Processing (LIIP)**  is a key lab of Fuzhou University in processing aritificial intelligent and pattern recognition problems.
+**LIIP (Lab of Intelligent Information Processing)**  is a key lab of Fuzhou University in processing aritificial intelligent and pattern recognition problems.
 **LIIP** is leaded by **Prof. Shiping Wang**, who is the professor at the College of Computer and Data Science, Fuzhou University.
 Shiping Wang received the PhD degree from the School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, China, in 2014.
 From August 2015 to August 2016, he was a research fellow with Nanyang Technological University. 
